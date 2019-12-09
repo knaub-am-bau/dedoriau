@@ -1,0 +1,2 @@
+# dedoriau
+decentralized docker authentication
