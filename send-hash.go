@@ -17,6 +17,7 @@ import (
 const node = "https://nodes.devnet.thetangle.org"
 
 // Replace this seed with the one that owns the address you used to get free test tokens
+// This will be a variable in the future
 const seed = trinary.Trytes("JBN9ZRCOH9YRUGSWIQNZWAIFEZUBDUGTFPVRKXWPAUCEQQFS9NHPQLXCKZKRHVCCUZNF9CZZWKXRZVCWQ")
 
 const minimumWeightMagnitude = 9
@@ -28,6 +29,7 @@ func main() {
     must(err)
 
     // Define an address to which to send IOTA tokens
+    // This will be a variable in the future
     address := trinary.Trytes("ZLGVEQ9JUZZWCZXLWVNTHBDX9G9KZTJP9VEERIIFHY9SIQKYBVAHIMLHXPQVE9IXFDDXNHQINXJDRPFDXNYVAPLZAW")
 
     // Define an input transaction object
