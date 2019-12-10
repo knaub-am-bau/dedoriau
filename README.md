@@ -9,7 +9,7 @@ The Provider of the container has to send the ID and the Docker hash to the Tang
 The Client requests the container hash with the Docker ID from the Tangle.
 With this authenticated docker hash, the right container can be downloaded.
 
-this Project is (for now) based on the code from the "go IOTA Workshop" guide
+This Project is (for now) based on the code from the "go IOTA Workshop" guide
 https://github.com/iota-community/go-iota-workshop.git
 
 ![functional plan](/dedoriau.jpg)
