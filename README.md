@@ -10,4 +10,3 @@ The Client requests the container hash with the Docker ID from the Tangle.
 With this authenticated docker hash, the right container can be downloaded.
 
 ![functional plan](/dedoriau.jpg)
-Format: ![Alt Text](url)
